@@ -402,3 +402,4 @@ export const SkillGapPage: React.FC = () => {
     </div>
   );
 };
+
